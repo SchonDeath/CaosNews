@@ -7,3 +7,7 @@ body{
     background: peru;
    
 }
+
+.dropdown a.dropdown-toggle {
+    color: #fff !important;
+}
