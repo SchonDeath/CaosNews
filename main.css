@@ -29,7 +29,7 @@
     color: #016D7A;
 }
 
-.fondoLanding {
+.fondoIngreso {
     background-image: url('./img/pexels-maria-orlova-4947408.jpg');
     background-repeat: repeat;
     background-size: cover;
@@ -41,6 +41,15 @@
      line-height: 1.3em;
      font-size: 1.0rem;
 }
+
+.fondoRegistro {
+    background-image: url('./img/pexels-alleksana-4185957.jpg');
+    background-repeat: repeat;
+    background-size: cover;
+    height: 110vh;
+    background-position: top;
+}
+
 .colIngreso {
     background-color: #FFF;
     opacity: .9;
