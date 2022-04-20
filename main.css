@@ -29,7 +29,7 @@
     background-image: url('./img/pexels-maria-orlova-4947408.jpg');
     background-repeat: repeat;
     background-size: cover;
-    height: calc(100vh - 44px);
+    height: calc(100vh - 60px);
     background-position: bottom;
 }
 
@@ -37,4 +37,18 @@
     background-color: #FFF;
     opacity: .7;
     border-radius: 15px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footerRS {
+    color:transparent;
+}
+
+.footerRS svg:hover {
+    fill: #FFF;
 }
