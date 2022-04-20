@@ -16,6 +16,10 @@
     color: #FFF;
 }
 
+.registrarse a:hover{
+    color: rgb(223, 19, 19);
+}
+
 .userLogIn:focus,
 .userLogIn:hover {
     color: #016D7A;
