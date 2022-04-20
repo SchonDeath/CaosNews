@@ -37,7 +37,11 @@
     height: calc(100vh - 60px);
     background-position: bottom;
 }
-
+.Letras{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     line-height: 1.3em;
+     font-size: 1.0rem;
+}
 .colIngreso {
     background-color: #FFF;
     opacity: .9;
