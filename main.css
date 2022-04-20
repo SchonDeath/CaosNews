@@ -7,6 +7,11 @@
     color: #fff !important;
 }
 
+.navigationli1  ul li a{
+    transition: all 0.4s;
+}
+
+
 .userLogIn {
     color: #FFF;
 }
