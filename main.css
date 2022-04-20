@@ -69,3 +69,7 @@
 .footerRS svg:hover {
     fill: #FFF;
 }
+
+.imgCarousel {
+    height: 500px;
+}
