@@ -11,7 +11,10 @@
     transition: all 0.4s;
 }
 
-
+.logo{
+    letter-spacing: 15px;
+    font-size: 1.3em;
+}
 .userLogIn {
     color: #FFF;
 }
@@ -19,6 +22,8 @@
 .registrarse a:hover{
     color: rgb(223, 19, 19);
 }
+
+
 
 .userLogIn:focus,
 .userLogIn:hover {
