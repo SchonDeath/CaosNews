@@ -100,6 +100,10 @@
     height: 500px;
 }
 
+.nav:hover{
+    background: transparent !important;
+}
+
 @media (max-width: 769px) {
     .fondoRegistro {
         height: 170vh;
