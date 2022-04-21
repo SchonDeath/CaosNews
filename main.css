@@ -18,7 +18,9 @@
 .userLogIn {
     color: #FFF;
 }
-
+.EnviarBlanco{
+    color: #fff;
+}
 .registrarse a:hover{
     color: rgb(223, 19, 19);
 }
