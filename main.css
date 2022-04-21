@@ -99,3 +99,9 @@
 .imgCarousel {
     height: 500px;
 }
+
+@media (max-width: 769px) {
+    .fondoRegistro {
+        height: 170vh;
+    }
+}
